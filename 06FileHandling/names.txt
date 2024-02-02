@@ -1,0 +1,22 @@
+Domingos Bernardo
+Christina Shakirova
+Alfredo
+Bernardo
+/home/traplord/Desktop/PythONRefresh19/FullRefresh/.venv/bin/python /home/traplord/Desktop/PythONRefresh19/FullRefresh/06FileHandling/05SavingUserData.py
+Bernardo
+Joaquim
+/home/traplord/Desktop/PythONRefresh19/FullRefresh/.venv/bin/python /home/traplord/Desktop/PythONRefresh19/FullRefresh/06FileHandling/05SavingUserData.py
+Bruno
+n
+d
+c
+d
+
+/home/traplord/Desktop/PythONRefresh19/FullRefresh/.venv/bin/python /home/traplord/Desktop/PythONRefresh19/FullRefresh/06FileHandling/04stripMethod.py
+/home/traplord/Desktop/PythONRefresh19/FullRefresh/.venv/bin/python /home/traplord/Desktop/PythONRefresh19/FullRefresh/06FileHandling/04stripMethod.py
+n
+/home/traplord/Desktop/PythONRefresh19/FullRefresh/.venv/bin/python /home/traplord/Desktop/PythONRefresh19/FullRefresh/06FileHandling/05SavingUserData.py
+D
+Borje
+borje2
+Drack
