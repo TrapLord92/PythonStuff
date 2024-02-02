@@ -1,0 +1,11 @@
+n=int(input("Enter a number : "))
+d=int(input("Enter denominator : "))
+
+try:
+    result=n/d
+except ZeroDivisionError:
+    print ("Cannot divide a number by zero")
+else:
+    print(result)
+finally:
+    print("The end")
