@@ -8,7 +8,7 @@ while True:
     if choice == "yes":
         print(f"The current product list is :")
         for index, product in enumerate(products):
-            print(f"{product} : name :{product['name']} | price - {product["price"]} | description: {product["description"]}")
+            print(f"{index} : name :{product['name']} | price - {product["price"]} | description: {product["description"]}")
             product_id=int(input("enter the id of the product you want to add to the cart"))
             if products[product_id] in cart:
                 products[product_id]['quantity'] +=1
